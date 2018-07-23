@@ -102,7 +102,7 @@ h3 {
   -webkit-animation-duation: 1.5s;
 }
 
-.either-or a:link, a:visited, a:active{
+.either-or .cat a:link, a:visited, a:active{
   text-decoration: none;
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
@@ -113,7 +113,7 @@ h3 {
   border: 5px solid white;
 }
 
-.either-or a:hover{
+.either-or .cat a:hover{
   text-decoration: none;
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
@@ -177,10 +177,6 @@ h3 {
   font-size: 16px;
   text-align: justify;
 /*  animation-delay: 1.8s; */
-}
-
-.bug a:active, a:link, a:visited{
-  text-decoration: underline;
 }
 
 .video a:hover{
